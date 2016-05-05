@@ -26,9 +26,10 @@ sudo dpkg --install ~/Downloads/atom-amd64.deb
 ## http://www.howtogeek.com/210047/how-to-manage-the-crouton-linux-system-on-your-chromebook/
 ## http://www.itworld.com/article/2891142/how-to-run-linux-and-chrome-os-on-your-chromebook.html
 
-
+# Crouton cheat sheets
 ## https://github.com/dnschneid/crouton/wiki/crouton-in-a-Chromium-OS-window-(xiwi)
 ## https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet
+## https://github.com/dnschneid/crouton/wiki/crouton-in-a-Chromium-OS-window-(xiwi)
 
 # extra dev tools
 ## https://gist.github.com/rachelmyers/d7023ef34e58fe925f9c
