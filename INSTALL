@@ -1,0 +1,32 @@
+
+cd ~/.ssh
+ssh-keygen -t rsa -C "edzo.botjes@opensourcegarage.nl"
+
+sudo apt-get install --no-install-recommends indicator-sound
+ sudo apt-get install xfce4-whiskermenu-plugin xfce4-indicator-plugin
+ sudo apt-get purge xscreensaver
+ sudo apt-get install xubuntu-icon-theme
+ sudo apt-get install ttf-ubuntu-font-family
+ sudo apt-get install gimp
+ 
+ 
+sudo apt-get install git git-core
+git config --global user.name "Edzo Botjes"
+git config --global user.email "edzo.botjes@opensourcegarage.nl"
+
+# resources
+
+# Crouton install guide
+## https://github.com/dnschneid/crouton
+## http://www.howtogeek.com/210047/how-to-manage-the-crouton-linux-system-on-your-chromebook/
+## http://www.itworld.com/article/2891142/how-to-run-linux-and-chrome-os-on-your-chromebook.html
+
+
+
+## https://github.com/dnschneid/crouton/wiki/crouton-in-a-Chromium-OS-window-(xiwi)
+## https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet
+
+# extra dev tools
+## https://gist.github.com/rachelmyers/d7023ef34e58fe925f9c
+# Post installation steps
+## http://www.webupd8.org/2013/12/things-to-do-after-installing-ubuntu-on.html
