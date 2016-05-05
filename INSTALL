@@ -8,19 +8,38 @@ sudo apt-get install --no-install-recommends indicator-sound
  sudo apt-get install xubuntu-icon-theme
  sudo apt-get install ttf-ubuntu-font-family
  sudo apt-get install gimp
- 
- 
+
+
 sudo apt-get install git git-core
 git config --global user.name "Edzo Botjes"
 git config --global user.email "edzo.botjes@opensourcegarage.nl"
 sudo apt-get install libnss3-dev
-sudo apt-get install curl nano wget 
+sudo apt-get install curl nano wget
 sudo apt-get install gvfs-bin gvfs-common
 sudo dpkg --install ~/Downloads/atom-amd64.deb
 sudo dpkg --install ~/Downloads/gitkraken-amd64.deb
 
+## ATOM
+# Auto Save
+## resources
+# Themes to in stall
+## https://zach-adams.com/2015/05/best-atom-packages-for-wordpress-php-development/
 
-# resources
+apm install linter
+apm install linter-jshint linter-php linter-phpcs linter-phpmd linter-scss-lint linter-csslint linter-js-yaml linter-tidy linter-htmlhint
+apm install atom-beautify
+apm install minimap
+apm install color-picker
+apm install file-icons
+apm install highlight-line
+apm install wordpress-api
+apm install autocomplete-php
+apm install aligner-php
+
+linter linter-jshint linter-php linter-phpcs linter-phpmd linter-scss-lint linter-csslint linter-js-yaml linter-tidy linter-htmlhint atom-beautify minimap color-picker file-icons highlight-line wordpress-api autocomplete-php aligner-php
+
+
+
 
 # Crouton install guide
 ## https://github.com/dnschneid/crouton
@@ -30,13 +49,16 @@ sudo dpkg --install ~/Downloads/gitkraken-amd64.deb
 # Crouton cheat sheets
 ## https://github.com/dnschneid/crouton/wiki/crouton-in-a-Chromium-OS-window-(xiwi)
 ## https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet
-## https://github.com/dnschneid/crouton/wiki/crouton-in-a-Chromium-OS-window-(xiwi)
+
 
 # extra dev tools
 ## https://gist.github.com/rachelmyers/d7023ef34e58fe925f9c
+
 # Post installation steps
 ## http://www.webupd8.org/2013/12/things-to-do-after-installing-ubuntu-on.html
+
 # Sharing files
 ## https://github.com/dnschneid/crouton/wiki/Sharing-files-and-folders
+
 # Download Atom
 ## https://github.com/atom/atom/releases
