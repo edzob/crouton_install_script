@@ -17,6 +17,7 @@ sudo apt-get install libnss3-dev
 sudo apt-get install curl nano wget 
 sudo apt-get install gvfs-bin gvfs-common
 sudo dpkg --install ~/Downloads/atom-amd64.deb
+sudo dpkg --install ~/Downloads/gitkraken-amd64.deb
 
 
 # resources
