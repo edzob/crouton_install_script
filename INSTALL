@@ -13,6 +13,11 @@ sudo apt-get install --no-install-recommends indicator-sound
 sudo apt-get install git git-core
 git config --global user.name "Edzo Botjes"
 git config --global user.email "edzo.botjes@opensourcegarage.nl"
+sudo apt-get install libnss3-dev
+sudo apt-get install curl nano wget 
+sudo apt-get install gvfs-bin gvfs-common
+sudo dpkg --install ~/Downloads/atom-amd64.deb
+
 
 # resources
 
@@ -22,7 +27,6 @@ git config --global user.email "edzo.botjes@opensourcegarage.nl"
 ## http://www.itworld.com/article/2891142/how-to-run-linux-and-chrome-os-on-your-chromebook.html
 
 
-
 ## https://github.com/dnschneid/crouton/wiki/crouton-in-a-Chromium-OS-window-(xiwi)
 ## https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet
 
@@ -30,3 +34,7 @@ git config --global user.email "edzo.botjes@opensourcegarage.nl"
 ## https://gist.github.com/rachelmyers/d7023ef34e58fe925f9c
 # Post installation steps
 ## http://www.webupd8.org/2013/12/things-to-do-after-installing-ubuntu-on.html
+# Sharing files
+## https://github.com/dnschneid/crouton/wiki/Sharing-files-and-folders
+# Download Atom
+## https://github.com/atom/atom/releases
