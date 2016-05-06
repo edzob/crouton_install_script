@@ -41,6 +41,10 @@ linter linter-jshint linter-php linter-phpcs linter-phpmd linter-scss-lint linte
 ### http://royal.pingdom.com/2013/07/11/network-administrators-command-line/
 ### http://www.howtogeek.com/170648/10-commands-included-in-chrome-oss-hidden-crosh-shell/
 
+#### http://www.cyberciti.biz/faq/install-nmap-debian-ubuntu-server-desktop-system/
+#### https://hackertarget.com/nmap-tutorial/
+#### http://www.tecmint.com/nmap-command-examples/
+
 # tracepath & traceroute
 ## sudo apt-get install traceroute
 #sudo apt-get install nmap
