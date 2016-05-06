@@ -38,8 +38,14 @@ apm install aligner-php
 
 linter linter-jshint linter-php linter-phpcs linter-phpmd linter-scss-lint linter-csslint linter-js-yaml linter-tidy linter-htmlhint atom-beautify minimap color-picker file-icons highlight-line wordpress-api autocomplete-php aligner-php
 
+### http://royal.pingdom.com/2013/07/11/network-administrators-command-line/
+### http://www.howtogeek.com/170648/10-commands-included-in-chrome-oss-hidden-crosh-shell/
 
-
+# tracepath & traceroute
+## sudo apt-get install traceroute
+#sudo apt-get install nmap
+#sudo apt-get install mtr-tiny
+# netcat = nc
 
 # Crouton install guide
 ## https://github.com/dnschneid/crouton
@@ -62,3 +68,4 @@ linter linter-jshint linter-php linter-phpcs linter-phpmd linter-scss-lint linte
 
 # Download Atom
 ## https://github.com/atom/atom/releases
+
